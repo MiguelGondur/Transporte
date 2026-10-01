@@ -1,0 +1,3 @@
+streamlit
+pulp>=2.7,<4
+pandas
